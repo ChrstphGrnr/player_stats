@@ -1,0 +1,6 @@
+#!c:\Ruby25-x64\bin\ruby
+
+require_relative '../lib/player_stats.rb'
+
+puts "Hello World!"
+
